@@ -5,5 +5,3 @@ for i in string:
     if i in vowel:
         vowel_count+=1
 print(f"There are {vowel_count} in the string")
-    
-        
